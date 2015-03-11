@@ -79,7 +79,7 @@ Many of Pillow's features require external libraries:
 
   * Pillow has been tested with openjpeg **2.0.0** and **2.1.0**.
 
-Once you have installed the prerequisites,run::
+Once you have installed the prerequisites, run::
 
     $ pip install Pillow
 
